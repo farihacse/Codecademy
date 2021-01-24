@@ -2,4 +2,4 @@
 
 nums = [4, 8, 15, 16, 23, 42]
 
-divide_by_two = [item / 2 for item in nums]
+divide_by_two = [items / 2 for items in nums]
